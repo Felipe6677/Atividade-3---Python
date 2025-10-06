@@ -1,6 +1,7 @@
 def soma(a,b):
+    
+    return a + b
 
-    return a + b 
-
-soma = ("1","2")
-print(soma)
+print(soma(1, 2))
+print(soma("a","b"))
+print(soma("1","2"))
